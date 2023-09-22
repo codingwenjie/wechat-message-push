@@ -8,10 +8,10 @@
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wx2e3dd5833508071a',
+  APP_ID: 'wx6b94eaa8bcf6ba7e',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: 'ac0abffa025bf9ae3aec65f8927d6809',
+  APP_SECRET: '708e7abeb45d831e2e11f62e89cc39fa',
 
   PROVINCE: '广东',
   CITY: '惠州',
@@ -57,7 +57,7 @@ const USER_CONFIG = {
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'oeQRT6S3pTea6aVv2T87PmHv0TkA',
     }
   ],
 
